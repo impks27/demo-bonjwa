@@ -1,0 +1,15 @@
+{
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "description": "A WebSocket server to handle @bonjwa prompts.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
